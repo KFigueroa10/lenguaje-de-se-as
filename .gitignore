@@ -4,3 +4,5 @@ venv/
 .env*
 .venv/*
 
+modelo_lstm_lsp-main/.venv/
+
